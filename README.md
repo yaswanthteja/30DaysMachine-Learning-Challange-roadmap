@@ -3,7 +3,7 @@
 
 This is a tentative roadmap for our 30 days machine learning challange. I will add more information along the way.
 
-## Day One: 
+## [Day One:](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/blob/main/Day_01/README.md) 
 
 - Core concepts of Machine Learning
 
