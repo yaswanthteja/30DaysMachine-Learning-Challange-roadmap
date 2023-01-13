@@ -2,6 +2,31 @@
 Welcome to the fourth day of our 30 days Machine learning Challenge.
 
 
+
+Pandas is a powerful and flexible open-source data manipulation and analysis library for the Python programming language. It provides data structures such as DataFrame and Series, which are designed to work with large and complex datasets. By using pandas, you can easily get familiar with your data by performing tasks such as:
+
+Loading data from various file formats (e.g. CSV, Excel, JSON)
+Exploring and summarizing your data (e.g. head, tail, describe)
+Cleaning and transforming your data (e.g. filling in missing values, converting data types)
+Filtering and selecting specific rows and columns
+Grouping and aggregating your data
+Sorting and ordering your data
+Merging and joining multiple datasets
+One of the most important features of pandas its ability to handle missing data. It provides various methods to handle missing data, such as filling missing values with a specific value or using interpolation techniques.
+
+Overall, pandas is a great tool for data exploration and manipulation, and it's widely used by data scientists and analysts in various industries.
+
+Find the Dataset for this notebook from here
+Here's what we're going to do today:
+
+- Take a first look at the data
+- See how many missing data points we have
+- Figure out why the data is missing
+- Drop missing values
+- Filling in missing values
+Let's get started!
+
+
 ### Using Pandas to Get Familiar With Your Data
 
 The first step in any machine learning project is to familiarize yourself with the data. You'll use the Pandas library for this. Pandas is the primary tool data scientists use for exploring and manipulating data. Most people abbreviate pandas in their code as pd. We do this with the command
