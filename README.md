@@ -12,12 +12,12 @@ This is a tentative roadmap for our 30 days machine learning challange. I will a
 ![image](https://user-images.githubusercontent.com/93423367/211369868-8cbe9ec9-ed74-4c7b-b79c-e38e5240a70d.png)
 
 
-## Day Two:
+## [Day Two](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_02):
 
 - Project:
 - [Classification Walkthrough: Titanic Dataset]()
 
-## Day Three:
+## [Day Three)(https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_03):
 - [How Machine Learning Models work]()
 
 ## Day Four:
