@@ -44,7 +44,7 @@ a.  Column Names
 
 b.  Replacing Missing Values
 
-## Day Six:
+## [Day Six](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_06):
 
 - Model Validation 
 
