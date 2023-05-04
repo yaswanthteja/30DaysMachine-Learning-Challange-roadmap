@@ -73,7 +73,7 @@ j.  RadViz
 k.  Parallel Coordinates
 
 
-## Day Seven:
+## [Day Seven](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_07):
 
 - [Underfitting vs Overfitting ]()
 
