@@ -117,7 +117,7 @@ f.  Principal Component Analysis
 g.  Feature Importance
 
 
-## Day Nine:
+## [Day Nine](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_09):
 
 - Dealing with Imbalance Classes
 
