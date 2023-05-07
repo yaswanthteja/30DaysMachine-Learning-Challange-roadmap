@@ -136,7 +136,7 @@ f.  Downsampling Majority
 g.  Upsampling Then Downsampling
 
 
-## Day Ten:
+## [Day Ten](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_10):
 
 - Classification Algorithms
 
