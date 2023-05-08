@@ -140,7 +140,7 @@ g.  Upsampling Then Downsampling
 
 - Classification Algorithms
 
-## Day Eleven:
+## [Day Eleven](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_11):
 
 - Model Selection
 
