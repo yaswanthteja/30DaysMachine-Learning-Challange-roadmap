@@ -144,7 +144,7 @@ g.  Upsampling Then Downsampling
 
 - Model Selection
 
-## Day Twelve:
+## [Day Twelve](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_12):
 
 - Metrics and Classification Evaluation
 
