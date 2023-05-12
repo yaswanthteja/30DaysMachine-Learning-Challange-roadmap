@@ -17,7 +17,7 @@ This is a tentative roadmap for our 30 days machine learning challange. I will a
 - Project:
 - [Classification Walkthrough: Titanic Dataset]()
 
-## [Day Three](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_03):
+## [Day Three:](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_03)
 - [How Machine Learning Models work]()
 
 ## [Day Four](https://github.com/yaswanthteja/30DaysMachine-Learning-Challange-roadmap/tree/main/Day_04):
