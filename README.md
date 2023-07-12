@@ -1,5 +1,7 @@
 # 30DaysMachine-Learning-Challange-roadmap
 
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yaswanthteja?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
 
 This is a tentative roadmap for our 30 days machine learning challange. I will add more information along the way.
 
